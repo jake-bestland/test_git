@@ -1,2 +1,1 @@
-I'm testing merge errors
-I accidentally called it errors instead of conflicts
+I'm testing merge conflicts
