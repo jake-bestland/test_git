@@ -1,1 +1,2 @@
 I'm testing merge errors
+I accidentally called it errors instead of conflicts
