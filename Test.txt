@@ -1,1 +1,1 @@
-I'm testing merge errors
+I'm testing merge conflicts
